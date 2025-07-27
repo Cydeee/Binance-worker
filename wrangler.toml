@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "binance-proxy-worker"
+name = "binance-worker"
 main = "src/index.js"
 compatibility_date = "2025-07-27"
 upload_format = "service-worker"
