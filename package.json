@@ -1,5 +1,5 @@
 {
-  "name": "binance-proxy-worker",
+  "name": "binance-worker",
   "version": "1.0.0",
   "private": true
 }
